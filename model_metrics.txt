@@ -1,0 +1,18 @@
+Rows: 20
+Train rows: 16
+Test rows: 4
+Accuracy: 0.2500
+
+Classification report:
+              precision    recall  f1-score   support
+
+        FAKE       0.33      0.50      0.40         2
+        REAL       0.00      0.00      0.00         2
+
+    accuracy                           0.25         4
+   macro avg       0.17      0.25      0.20         4
+weighted avg       0.17      0.25      0.20         4
+
+Confusion matrix:
+[[1 1]
+ [2 0]]
